@@ -31,7 +31,12 @@ diabetes-prediction-flask/
 ├── diabetes_model.pkl # Saved trained ML model 
 ├── README.md # Project info and instructions
 └── templates/
-└── index.html # Frontend form for user input
+└── index.html
+|__ screenshots/
+|___ homepage.png
+|___ prediction.png
+
+# Frontend form for user input
 
 ---
 
@@ -82,13 +87,14 @@ Age — Age in years
 This project is open-source and free to use under the MIT License.
 
 DEMO
+
 ## 📸 Screenshots
 
 ### 🔹 Home Page
-
-
+screenshots/homepage.png
 
 ### 🔹 Prediction Result
+screenshots/prediction.png
 
 
 
