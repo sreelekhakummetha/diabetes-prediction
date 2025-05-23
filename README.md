@@ -55,6 +55,30 @@ python app.py
 
 6.Open the App
 Visit http://127.0.0.1:5000/ in your web browser.
+📊 Input Features
+The app uses the following health parameters for prediction:
+
+Pregnancies — Number of times pregnant
+
+Glucose — Plasma glucose concentration
+
+BloodPressure — Diastolic blood pressure (mm Hg)
+
+SkinThickness — Triceps skinfold thickness (mm)
+
+Insulin — 2-Hour serum insulin (mu U/ml)
+
+BMI — Body mass index (weight in kg/(height in m)^2)
+
+DiabetesPedigreeFunction — Diabetes pedigree function (hereditary factor)
+
+Age — Age in years
+
+📜 License
+This project is open-source and free to use under the MIT License.
+
+
+
 
 
  
