@@ -55,7 +55,10 @@ python app.py
 
 6.Open the App
 Visit http://127.0.0.1:5000/ in your web browser.
+
+
 📊 Input Features
+
 The app uses the following health parameters for prediction:
 
 Pregnancies — Number of times pregnant
@@ -75,6 +78,7 @@ DiabetesPedigreeFunction — Diabetes pedigree function (hereditary factor)
 Age — Age in years
 
 📜 License
+
 This project is open-source and free to use under the MIT License.
 
 
