@@ -81,6 +81,17 @@ Age — Age in years
 
 This project is open-source and free to use under the MIT License.
 
+DEMO
+## 📸 Screenshots
+
+### 🔹 Home Page
+
+
+
+### 🔹 Prediction Result
+
+
+
 
 
 
